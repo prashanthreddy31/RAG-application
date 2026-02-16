@@ -1,0 +1,25 @@
+# Core Streamlit dependency
+streamlit
+
+# LangChain dependencies
+langchain
+langchain-google-genai
+langchain-groq
+langchain-chroma
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-classic
+langchain-huggingface
+sentence-transformers
+
+# Vector Database
+faiss-cpu
+chromadb
+
+# Document Processing
+pypdf
+pymupdf
+
+# Environment and Configuration
+python-dotenv
