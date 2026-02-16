@@ -18,7 +18,7 @@ An enterprise-grade **Retrieval-Augmented Generation (RAG)** application designe
 
 * **Frontend**: [Streamlit](https://streamlit.io/)
 * **Orchestration**: [LangChain](https://www.langchain.com/)
-* **LLM**: Groq (Llama 3 / Mixtral)
+* **LLM**: Groq (Open AI)
 * **Embeddings**: HuggingFace (`sentence-transformers/all-MiniLM-L6-v2`)
 * **Vector Store**: FAISS (Facebook AI Similarity Search)
 * **Document Parsing**: PyPDF
