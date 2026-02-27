@@ -1,4 +1,28 @@
-<<<<<<< HEAD
+
+# Core Streamlit dependency
+streamlit
+
+# LangChain dependencies
+langchain
+langchain-google-genai
+langchain-groq
+langchain-chroma
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-classic
+langchain-huggingface
+sentence-transformers
+
+# Vector Database
+faiss-cpu
+chromadb
+
+# Document Processing
+pypdf
+pymupdf
+
+
 # Core Streamlit dependency
 streamlit
 
@@ -23,30 +47,4 @@ pypdf
 pymupdf
 
 # Environment and Configuration
-=======
-# Core Streamlit dependency
-streamlit
-
-# LangChain dependencies
-langchain
-langchain-google-genai
-langchain-groq
-langchain-chroma
-langchain-community
-langchain-core
-langchain-text-splitters
-langchain-classic
-langchain-huggingface
-sentence-transformers
-
-# Vector Database
-faiss-cpu
-chromadb
-
-# Document Processing
-pypdf
-pymupdf
-
-# Environment and Configuration
->>>>>>> c7f2f5d90f693ab510cb36a45170b3f46c9a0dc6
 python-dotenv
