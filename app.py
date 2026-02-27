@@ -139,7 +139,7 @@ if user_Query:
         answer = answer.replace("\\\\", "\\")
 
         st.success("Answer:")
-        st.markdown(answer)
+        st.markdown(answer, unsafe_allow_html=False)
 
     ## With a streamlit expander
         with st.expander("📄 Sources"):
